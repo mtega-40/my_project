@@ -1,0 +1,61 @@
+2026-09-16 15:18:00 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:18:26 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:25:02 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:26:32 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:59:33 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 16:01:08 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 16:08:33 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 16:12:10 [error]: Register error: relation "users" does not exist
+2026-09-16 16:24:27 [error]: Register error: relation "users" does not exist
+2026-09-16 16:26:01 [error]: Register error: relation "users" does not exist
+2026-09-16 16:33:11 [error]: Register error: relation "users" does not exist
+2026-09-16 16:33:15 [error]: Register error: relation "users" does not exist
+2026-09-16 16:33:28 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:25 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:26 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:26 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:29 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:29 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:29 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:39 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:39 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:41 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:41 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:41 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:42 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:42 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:46 [error]: Register error: relation "users" does not exist
+2026-09-16 16:41:55 [error]: Login error: relation "users" does not exist
+2026-09-16 16:43:13 [error]: Register error: relation "users" does not exist
+2026-09-16 16:43:15 [error]: Register error: relation "users" does not exist
+2026-09-16 16:46:40 [error]: Login error: relation "users" does not exist
+2026-09-16 17:02:28 [error]: Register error: password authentication failed for user "farm_user"
+2026-09-17 14:00:43 [error]: Create livestock error: invalid input syntax for type date: ""
+2026-09-17 14:10:36 [error]: Create livestock error: invalid input syntax for type date: ""
+2026-09-17 14:10:38 [error]: Create livestock error: invalid input syntax for type date: ""
+2026-09-17 14:19:18 [error]: Create worker error: insert or update on table "workers" violates foreign key constraint "workers_user_id_fkey"
+2026-09-17 14:19:23 [error]: Create worker error: insert or update on table "workers" violates foreign key constraint "workers_user_id_fkey"
+2026-09-17 14:21:09 [error]: Create worker error: insert or update on table "workers" violates foreign key constraint "workers_user_id_fkey"
+2026-10-05 13:12:01 [error]: No user found with email: antony@mtega2@gmail.com

@@ -1,0 +1,160 @@
+2026-09-16 14:26:05 [info]: Farm Management API running on http://localhost:5000
+2026-09-16 14:32:58 [info]: Farm Management API running on http://localhost:5000
+2026-09-16 15:18:00 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:18:26 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:25:02 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:26:32 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 15:59:33 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 16:01:08 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 16:08:33 [error]: Register error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2026-09-16 16:10:21 [info]: Farm Management API running on http://localhost:5000
+2026-09-16 16:12:10 [error]: Register error: relation "users" does not exist
+2026-09-16 16:24:27 [error]: Register error: relation "users" does not exist
+2026-09-16 16:26:01 [error]: Register error: relation "users" does not exist
+2026-09-16 16:33:11 [error]: Register error: relation "users" does not exist
+2026-09-16 16:33:15 [error]: Register error: relation "users" does not exist
+2026-09-16 16:33:28 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:25 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:26 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:26 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:29 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:29 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:29 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:30 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:31 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:39 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:39 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:41 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:41 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:41 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:42 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:42 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:43 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:44 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:45 [error]: Register error: relation "users" does not exist
+2026-09-16 16:37:46 [error]: Register error: relation "users" does not exist
+2026-09-16 16:41:55 [error]: Login error: relation "users" does not exist
+2026-09-16 16:43:13 [error]: Register error: relation "users" does not exist
+2026-09-16 16:43:15 [error]: Register error: relation "users" does not exist
+2026-09-16 16:46:40 [error]: Login error: relation "users" does not exist
+2026-09-16 17:02:28 [error]: Register error: password authentication failed for user "farm_user"
+2026-09-16 17:04:41 [info]: Farm Management API running on http://localhost:5000
+2026-09-16 17:06:23 [info]: New user registered: mtega2@gmail.com
+2026-09-17 11:02:50 [info]: Farm Management API running on http://localhost:5000
+2026-09-17 11:12:51 [info]: Farm Management API running on http://localhost:5000
+2026-09-17 11:14:12 [info]: Farm created: matunda by user 1
+2026-09-17 11:16:46 [info]: Farm created: matunda by user 1
+2026-09-17 11:19:17 [info]: Farm created: matunda by user 1
+2026-09-17 11:20:25 [info]: Farm created: matunda by user 1
+2026-09-17 11:24:13 [info]: Farm Management API running on http://localhost:5000
+2026-09-17 12:17:43 [info]: Farm Management API running on http://localhost:5000
+2026-09-17 13:29:44 [info]: Farm Management API running on http://localhost:5000
+2026-09-17 13:30:28 [info]: New user registered: mtega3@gmail.com
+2026-09-17 13:30:53 [info]: Farm created: mtega by user 2
+2026-09-17 14:00:43 [error]: Create livestock error: invalid input syntax for type date: ""
+2026-09-17 14:10:36 [error]: Create livestock error: invalid input syntax for type date: ""
+2026-09-17 14:10:38 [error]: Create livestock error: invalid input syntax for type date: ""
+2026-09-17 14:15:14 [info]: Farm Management API running on http://localhost:5000
+2026-09-17 14:16:17 [info]: Livestock created: cow-23
+2026-09-17 14:17:54 [info]: Inventory item created: 1
+2026-09-17 14:19:18 [error]: Create worker error: insert or update on table "workers" violates foreign key constraint "workers_user_id_fkey"
+2026-09-17 14:19:23 [error]: Create worker error: insert or update on table "workers" violates foreign key constraint "workers_user_id_fkey"
+2026-09-17 14:21:09 [error]: Create worker error: insert or update on table "workers" violates foreign key constraint "workers_user_id_fkey"
+2026-09-17 14:21:21 [info]: Worker created: 4
+2026-09-17 14:36:51 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:26:11 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:30:46 [info]: New user registered: mtegaantony23@gmail.com
+2026-10-05 12:32:44 [info]: Farm created: valley farm by user 3
+2026-10-05 12:33:55 [info]: Livestock created: 23
+2026-10-05 12:34:46 [info]: Inventory item created: 2
+2026-10-05 12:35:22 [info]: Worker created: 5
+2026-10-05 12:36:28 [info]: Expense created: 2
+2026-10-05 12:40:26 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:40:41 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:40:57 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:04 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:07 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:09 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:12 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:14 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:17 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:21 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:25 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:27 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:36 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:43 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:41:56 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:42:03 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:42:16 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:42:33 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:42:56 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:43:12 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:43:17 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:43:35 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:43:46 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:44:04 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:44:14 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:44:16 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:44:40 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:44:48 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:45:01 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:45:18 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:05 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:11 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:17 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:26 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:31 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:38 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:46 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:46:55 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:47:12 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:47:20 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:47:31 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:47:40 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:47:48 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:48:01 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:48:11 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:48:21 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:48:27 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:48:33 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:48:41 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:48:50 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:49:01 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:49:15 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 12:49:19 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 13:09:14 [info]: New user registered: smoke_c8344fdc9b2b045d461fa1c0@test.local
+2026-10-05 13:09:14 [info]: Farm created: Smoke Farm by user 4
+2026-10-05 13:09:14 [info]: Field created: 1 in farm 7
+2026-10-05 13:09:14 [info]: Diary entry created: 1
+2026-10-05 13:09:30 [info]: New user registered: smoke_worker_f26e4c61b961daec94ae871e@test.local
+2026-10-05 13:11:05 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 13:11:13 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 13:11:40 [info]: Diary entry created: 2
+2026-10-05 13:12:01 [error]: No user found with email: antony@mtega2@gmail.com
+2026-10-05 13:12:13 [info]: Promoted to admin: {"id":1,"name":"antony","email":"mtega2@gmail.com","role":"admin"}
+2026-10-05 13:12:22 [info]: Promoted to admin: {"id":4,"name":"Smoke Owner","email":"smoke_c8344fdc9b2b045d461fa1c0@test.local","role":"admin"}
+2026-10-05 13:13:35 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 13:13:57 [info]: Farm Management API running on http://localhost:5000
+2026-10-05 13:16:40 [info]: Role updated for user 2 to manager by admin 1
+2026-10-05 14:35:10 [info]: Field created: 2 in farm 5
+2026-10-20 14:07:59 [info]: Farm Management API running on http://localhost:5000
+2026-10-20 14:14:02 [info]: Farm Management API running on http://localhost:5000
+2026-10-20 14:23:09 [info]: Farm Management API running on http://localhost:5000
+2026-10-20 14:27:20 [info]: Farm Management API running on http://localhost:5000
